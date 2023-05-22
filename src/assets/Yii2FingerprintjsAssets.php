@@ -1,6 +1,6 @@
 <?php
 
-namespace Opro\Yii2Fingerprintjs;
+namespace Opro\Yii2Fingerprintjs\assets;
 
 use yii\web\AssetBundle;
 
