@@ -6,7 +6,7 @@
     },
     "autoload": {
         "psr-4": {
-            "yii2-fingerprintjs\\": "src"
+            "Opro\\Yii2Fingerprintjs\\": "src"
         }
     },
     "config": {
