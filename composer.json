@@ -1,5 +1,5 @@
 {
-    "name": "yii2-fingerprintjs",
+    "name": "orpo/yii2-fingerprintjs",
     "type": "yii2-extension",
     "require": {
         "bower-asset/fingerprintjs": "*"
