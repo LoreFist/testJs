@@ -2,7 +2,7 @@
     "name": "orpo/yii2-fingerprintjs",
     "type": "yii2-extension",
     "require": {
-        "bower-asset/fingerprintjs": "*"
+        "bower-asset/fingerprintjs": "latest"
     },
     "autoload": {
         "psr-4": {
